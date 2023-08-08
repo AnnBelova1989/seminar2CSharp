@@ -1,0 +1,15 @@
+/Users/annabelova/Desktop/semC-2/primer2/bin/Debug/net6.0/primer2
+/Users/annabelova/Desktop/semC-2/primer2/bin/Debug/net6.0/primer2.deps.json
+/Users/annabelova/Desktop/semC-2/primer2/bin/Debug/net6.0/primer2.runtimeconfig.json
+/Users/annabelova/Desktop/semC-2/primer2/bin/Debug/net6.0/primer2.dll
+/Users/annabelova/Desktop/semC-2/primer2/bin/Debug/net6.0/primer2.pdb
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.csproj.AssemblyReference.cache
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.AssemblyInfoInputs.cache
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.AssemblyInfo.cs
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.csproj.CoreCompileInputs.cache
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.dll
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/refint/primer2.dll
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.pdb
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/primer2.genruntimeconfig.cache
+/Users/annabelova/Desktop/semC-2/primer2/obj/Debug/net6.0/ref/primer2.dll
