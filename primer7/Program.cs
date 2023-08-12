@@ -6,37 +6,14 @@
 
 bool Multiplisity(int number)
 {
-    if((number%7==0)&&(number%23==0))
-    {
-    return true;
-    }
-    return false;
+    return number%7==0 && number%23==0;
+  
 }
-void result(bool mult, int num)
-{
-    if(mult == true)
-    {
-            System.Console.WriteLine($"Число {num} кратно числам 7 и 23 одновременно");
-    }
-    else
-    {
-         System.Console.WriteLine($"Число {num} не кратно числам 7 и 23 одновременно");   
-    }
 
-}
 int num =VvodChisel("введите число: ");
 bool mult=Multiplisity(num);
-result(mult,num);
+string result =mult ? $"Число {num} кратно числам 7 и 23 одновременно" : $"Число {num} не кратно числам 7 и 23 одновременно";
+System.Console.WriteLine(result);
 
 
-//System.Console.WriteLine("введите число: ");
-//int num = int.Parse(Console.ReadLine());
-// if((num%7==0)&&(num%23==0))
-// {
-//     System.Console.WriteLine($"Число {num} кратно числам 7 и 23 одновременно");
-// }
-// else
-// {
-//     System.Console.WriteLine($"Число {num} не кратно числам 7 и 23 одновременно");
-// }
 
